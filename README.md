@@ -1,4 +1,4 @@
-# Joenel Abatayo
+# Jonel Abatayo
 ```
 This is my app
 ```
